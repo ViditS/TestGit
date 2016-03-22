@@ -1,0 +1,1 @@
+Seventh file added by Vidit user to check when added one file and commit -am, His name should appear throughout
