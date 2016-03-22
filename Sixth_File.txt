@@ -1,0 +1,1 @@
+Sixth file added by other user to check when added one file, only his name should appear on git account
