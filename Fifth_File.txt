@@ -1,0 +1,1 @@
+Fifth file added by othr user to check when added one file, only his name should appear on git account
